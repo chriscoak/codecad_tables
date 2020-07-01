@@ -1,0 +1,28 @@
+body {
+  background-color: lightgray;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: Arial;
+}
+
+h2 {
+  color: Purple;
+}
+
+table {
+  display: block;
+  margin: 0 auto;
+  border-collapse: collapse;
+  max-width: 474px;
+}
+
+table, th, td {
+  border: 1px purple solid;
+  padding: 5px;
+}
+
+th {
+  background-color: violet;
+}
